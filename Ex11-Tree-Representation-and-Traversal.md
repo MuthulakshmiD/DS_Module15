@@ -41,4 +41,4 @@ display_postorder(root_node->left_child); display_postorder(root_node->right_chi
 
 ## Result:
 Thus, the function to perform post order traversal of a binary tree is implemented successfully
-](https://github.com/MuthulakshmiD/DS_Module14)
+
